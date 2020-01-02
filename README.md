@@ -23,7 +23,6 @@
 
 Recopilación de laboratorios, tareas y proyectos de la asignatura MAT281 correspondiente al segundo semestre del año 2019.
 
-Es posible ejecutar y explorar interactivamente los jupyter notebooks de este repositorio clickeando en el icono  ![Binder](https://mybinder.org/badge_logo.svg) que se encuentra bajo el título. Esperar hasta que se abra una instancia de JupyterLab.
 
 
 ## Instrucciones de configuración inicial para el curso
