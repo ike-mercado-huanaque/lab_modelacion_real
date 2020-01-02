@@ -12,7 +12,7 @@
 ## Personal Portafolio
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ike-mercado-huanaque/lab_modelacion_real.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ike-mercado-huanaque/lab_modelacion_real/master)
 
 * __John Titor__ : [Linkedin](https://www.linkedin.com/in/williamhgates/)
 
