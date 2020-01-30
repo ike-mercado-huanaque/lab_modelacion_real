@@ -1,4 +1,4 @@
-name: modela
+name: lab
 channels:
   - conda-forge
   - defaults
