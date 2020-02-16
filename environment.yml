@@ -9,3 +9,5 @@ dependencies:
   - numpy=1.17.0
   - python=3.7
   - pillow=6.2.0
+pip:
+  - imutils=0.5.3
